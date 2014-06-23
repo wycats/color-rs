@@ -1,0 +1,10 @@
+[project]
+
+name = "color"
+version = "0.1.0"
+authors = ["Brendan Zabarauskas"]
+
+[[lib]]
+
+name = "color"
+path = "src/lib.rs"
